@@ -12,7 +12,7 @@ Outside of class, I’m active in the **Marching Illini (baritone)**, **Jazz Ban
 - **Libraries:** pandas, numpy, matplotlib, seaborn, scikit-learn  
 - **Other:** GitHub, Jupyter, VS Code  
 
-### 🚀 What I’m working on
+### What I’m working on
 - Expanding NBA analytics portfolio (MVP outliers, LeBron similarity index)  
 - Sharpening my data science workflow and reproducibility skills  
 - Applying for **Summer 2027 internships** in Data Science / Analytics
