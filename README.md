@@ -10,7 +10,7 @@ I'm currently seeking **Summer 2027 internships** in Data Science, Data Analytic
 
 ## Featured Projects
 
-### [NBA Analytics — STAT 207](https://github.com/aahmedalz/NBA-analytics)
+### [NBA Analytics](https://github.com/aahmedalz/NBA-analytics)
 An exploratory analysis of NBA player performance and league trends from 2003–2022.
 
 - Examined changes in player scoring across NBA eras.
